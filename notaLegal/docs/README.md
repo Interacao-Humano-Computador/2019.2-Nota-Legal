@@ -19,62 +19,64 @@ Tais créditos poderão ser resgatados em sua conta bancária ou abatidos em imp
 
 ## Equipe
 
-  <div  class="card">
-      <img class="integrante" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/joao.png">  
-      <div class="item">
-      <h4><b>João Pedro Soares</b></h4>
-      <a href="https://github.com/jpcirqueira">
-        <img class="icon" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/icons/githubIcon.png">
+  <div class="container">
+  <div class="card">
+    ![imagem Matheus](https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/Matheus.png?raw=true)
+    <div  class="item">
+      <h4><b>Matheus Rodrigues</b></h4>
+      <a href="https://github.com/matheus-rn">
+        <img class="icon" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/icons/githubIcon.png?raw=true">
       </a>
     </div>
   </div>
 
   <div  class="card">
-      <img class="integrante" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/LucasA.png">
+      ![](https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/joao.jpg?raw=true)  
+      <div class="item">
+      <h4><b>João Pedro Soares</b></h4>
+      <a href="https://github.com/jpcirqueira">
+        <img class="icon" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/icons/githubIcon.png?raw=true">
+      </a>
+    </div>
+  </div>
+
+  <div  class="card">
+      ![](https://github.com/Requisitos2-2019/Waze/blob/master/docs/img/equipe/LucasA.png?raw=true)
       <div class="item">
       <h4><b>Lucas Alexandre</b></h4>
       <a href="https://github.com/lucasA27">
-        <img class="icon" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/icons/githubIcon.png">
+        <img class="icon" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/icons/githubIcon.png?raw=true">
       </a>
     </div>
   </div>
 </div>
 <div class="container">
   <div class="card">
-      <img class="integrante" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/MatheusEstanislau.png">
+      ![](https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/MatheusEstanislau.jpg?raw=true)
       <div class="item">
       <h4><b>Matheus de Cristo</b></h4>
       <a href="https://github.com/MatheusEstanislau">
-        <img class="icon" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/icons/githubIcon.png">
+        <img class="icon" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/icons/githubIcon.png?raw=true">
       </a>
     </div>
   </div>
-<div class="container">
-  <div class="card">
-    <img class="integrante" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/Matheus.png">
-    <div  class="item">
-      <h4><b>Matheus Rodrigues</b></h4>
-      <a href="https://github.com/gleal17">
-        <img class="icon" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/icons/githubIcon.png">
-      </a>
-    </div>
-  </div>
+
   <div  class="card">
-      <img class="integrante" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/Moacir.png">
+      ![](https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/Moacir.jpg?raw=true)>
       <div class="item">
       <h4><b>Moacir Mascarenha</b></h4>
       <a href="https://github.com/MoacirMSJ">
-        <img class="icon" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/icons/githubIcon.png">
+        <img class="icon" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/icons/githubIcon.png?raw=true">
       </a>
     </div>
   </div>
 
   <div class="card">
-      <img  class="integrante">
+      ![](https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/Renan.jpg?raw=true)
             <div  class="item">
       <h4><b>Renan Cristyan</b></h4>
-      <a href="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/Renan.png">
-        <img class="icon" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/icons/githubIcon.png">
+      <a href="https://github.com/RCristyan">
+        <img class="icon" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/icons/githubIcon.png?raw=true">
       </a>
     </div>
   </div>
