@@ -21,7 +21,7 @@ Tais créditos poderão ser resgatados em sua conta bancária ou abatidos em imp
 
   <div class="container">
   <div class="card">
-    ![imagem Matheus](https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/Matheus.png?raw=true)
+  <img class="integrante" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/Matheus.png?raw=true">
     <div  class="item">
       <h4><b>Matheus Rodrigues</b></h4>
       <a href="https://github.com/matheus-rn">
@@ -31,7 +31,7 @@ Tais créditos poderão ser resgatados em sua conta bancária ou abatidos em imp
   </div>
 
   <div  class="card">
-      ![](https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/joao.jpg?raw=true)  
+       <img class="integrante" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/joao.jpg?raw=true">
       <div class="item">
       <h4><b>João Pedro Soares</b></h4>
       <a href="https://github.com/jpcirqueira">
@@ -41,7 +41,7 @@ Tais créditos poderão ser resgatados em sua conta bancária ou abatidos em imp
   </div>
 
   <div  class="card">
-      ![](https://github.com/Requisitos2-2019/Waze/blob/master/docs/img/equipe/LucasA.png?raw=true)
+  <img class="integrante" src="https://github.com/Requisitos2-2019/Waze/blob/master/docs/img/equipe/LucasA.png?raw=true">
       <div class="item">
       <h4><b>Lucas Alexandre</b></h4>
       <a href="https://github.com/lucasA27">
@@ -52,7 +52,7 @@ Tais créditos poderão ser resgatados em sua conta bancária ou abatidos em imp
 </div>
 <div class="container">
   <div class="card">
-      ![](https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/MatheusEstanislau.jpg?raw=true)
+  <img class="integrante" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/MatheusEstanislau.jpg?raw=true">
       <div class="item">
       <h4><b>Matheus de Cristo</b></h4>
       <a href="https://github.com/MatheusEstanislau">
@@ -62,7 +62,7 @@ Tais créditos poderão ser resgatados em sua conta bancária ou abatidos em imp
   </div>
 
   <div  class="card">
-      ![](https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/Moacir.jpg?raw=true)>
+  <img class="integrante" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/Moacir.jpg?raw=true">
       <div class="item">
       <h4><b>Moacir Mascarenha</b></h4>
       <a href="https://github.com/MoacirMSJ">
@@ -72,7 +72,7 @@ Tais créditos poderão ser resgatados em sua conta bancária ou abatidos em imp
   </div>
 
   <div class="card">
-      ![](https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/Renan.jpg?raw=true)
+  <img class="integrante" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/Renan.jpg?raw=true">
             <div  class="item">
       <h4><b>Renan Cristyan</b></h4>
       <a href="https://github.com/RCristyan">
