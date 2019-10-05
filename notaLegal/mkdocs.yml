@@ -9,3 +9,8 @@ theme:
 
 nav:
   - Home: README.md
+  - Análise de requisitos:
+    - Guia de Estilo: Guia_de_Estilo.md
+    - Análise Hierárquica de Tarefas: HTA.md
+  - Design, Avaliação e Desenvolvimento:
+    - Avaliação Heurística: avaliacao_heuristica.md
