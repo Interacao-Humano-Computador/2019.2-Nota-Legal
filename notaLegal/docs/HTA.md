@@ -38,7 +38,7 @@ as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as conse
 ## Referências Bibliográficas
 
 
-> https://aprender.ead.unb.br/pluginfile.php/727212/mod_resource/content/3/Simone_Barbosa_Bruno-Interacao_humano_computador%20Cap%206%20Organizacao%20.pdf
+> Barbosa, S.;Silva, B. Interação Humano Computador, Capítulo 6 Organização no espaço de problema.
 
 ## Histórico de versões
 
