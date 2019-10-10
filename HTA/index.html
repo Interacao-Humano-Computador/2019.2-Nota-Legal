@@ -36,7 +36,7 @@
     
     
       
-        <title>Análise de Tarefas - Nota Legal</title>
+        <title>Análise Hierárquica de Tarefas - Nota Legal</title>
       
     
     
@@ -103,7 +103,7 @@
             </span>
             <span class="md-header-nav__topic">
               
-                Análise de Tarefas
+                Análise Hierárquica de Tarefas
               
             </span>
           
@@ -226,11 +226,11 @@
     
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
-        Análise de Tarefas
+        Análise Hierárquica de Tarefas
       </label>
     
-    <a href="./" title="Análise de Tarefas" class="md-nav__link md-nav__link--active">
-      Análise de Tarefas
+    <a href="./" title="Análise Hierárquica de Tarefas" class="md-nav__link md-nav__link--active">
+      Análise Hierárquica de Tarefas
     </a>
     
       
@@ -281,61 +281,6 @@
         
       </ul>
     </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#3arvores-de-tarefas-concorrentes-concurtasktrees-ctt" class="md-nav__link">
-    3.Árvores de Tarefas Concorrentes (ConcurTaskTrees – CTT)
-  </a>
-  
-    <nav class="md-nav">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#padronizacao" class="md-nav__link">
-    Padronização:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#relacao-entre-terefas" class="md-nav__link">
-    Relação entre terefas
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cct1-realizar-cadastro" class="md-nav__link">
-    CCT1: Realizar Cadastro
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cct2-realizar-login" class="md-nav__link">
-    CCT2: Realizar Login
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cct3-gerar-consumo" class="md-nav__link">
-    CCT3: Gerar Consumo
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#ferramentas" class="md-nav__link">
-    Ferramentas
-  </a>
   
 </li>
       
@@ -467,61 +412,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#3arvores-de-tarefas-concorrentes-concurtasktrees-ctt" class="md-nav__link">
-    3.Árvores de Tarefas Concorrentes (ConcurTaskTrees – CTT)
-  </a>
-  
-    <nav class="md-nav">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#padronizacao" class="md-nav__link">
-    Padronização:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#relacao-entre-terefas" class="md-nav__link">
-    Relação entre terefas
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cct1-realizar-cadastro" class="md-nav__link">
-    CCT1: Realizar Cadastro
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cct2-realizar-login" class="md-nav__link">
-    CCT2: Realizar Login
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cct3-gerar-consumo" class="md-nav__link">
-    CCT3: Gerar Consumo
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#ferramentas" class="md-nav__link">
-    Ferramentas
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#referencias-bibliograficas" class="md-nav__link">
     Referências Bibliográficas
   </a>
@@ -578,53 +468,6 @@ as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as conse
 <p><img alt="login" src="../img/HTA/login.png" /></p>
 <h3 id="hta3-gerar-consumo">HTA3: Gerar consumo</h3>
 <p><img alt="gerar consumo" src="../img/HTA/gerarConsumo.png" /></p>
-<h2 id="3arvores-de-tarefas-concorrentes-concurtasktrees-ctt">3.Árvores de Tarefas Concorrentes (ConcurTaskTrees – CTT)</h2>
-<p><p align="justify"> O modelo de árvore de terefas concorrentes tem o intuíto de auxiliar a avaliação e o design e avaliação de IHC.
-</p></p>
-<ul>
-Há 4 Tipos de Tarefas neste modelo.
-  <li> tarefas do usuário, realizadas fora do sistema;
-  <li> tarefas do sistema, em que o sistema realiza um processamento sem interagir com o usuário.
-  <li> tarefas interativas, em que ocorrem os diálogos usuário–sistema.
-  <li> tarefas abstratas, que não são tarefas em si, mas sim uma representação de uma composição de tarefas que auxilie a decomposição. 
-</ul>
-
-<h4 id="padronizacao">Padronização:</h4>
-<p><img alt="Realizar cadastro" src="../img/CTT/simbolos.png" /></p>
-<h4 id="relacao-entre-terefas">Relação entre terefas</h4>
-<ul>
-<li>ativação: T1 &gt;&gt; T2 significa que a segunda tarefa (T2) só pode iniciar após a
-primeira tarefa (T1) terminar;</li>
-<li>ativação com passagem de informação: T1 [ ] &gt;&gt; T2 específica que, além de
-T2 só poder ser iniciada após T1, a informação produzida por T1 é passada
-para T2;</li>
-<li>escolha (tarefas alternativas): T1 [] T2 específica duas tarefas que estejam habilitadas num momento, mas que, uma vez que uma delas é iniciada, a outra
-é desabilitada;</li>
-<li>
-<p>tarefas concorrentes: T1 ||| T2 específica que as tarefas podem ser realizadas
-em qualquer ordem ou ao mesmo tempo;</p>
-</li>
-<li>
-<p>tarefas concorrentes e comunicantes: T1 | [ ] | T2 especifica que, além de as tarefas poderem ser realizadas em qualquer ordem ou ao mesmo tempo, elas
-podem trocar informações;</p>
-</li>
-<li>tarefas independentes: T1 |=| T2 especifica que as tarefas podem ser realizadas em qualquer ordem, mas quando uma delas é iniciada, precisa terminar
-para que a outra possa ser iniciada;</li>
-<li>desativação: T1 [&gt; T2 especifica que T1 é completamente interrompida por
-T2;</li>
-<li>suspensão/retomada: T1 |&gt; T2 especifica que T1 pode ser interrompida por T2
-e é retomada do ponto em que parou assim que T2 terminar.</li>
-</ul>
-<p><img alt="Relação entre as tarefas" src="../img/CTT/relacoesEntreTarefas.png" /></p>
-<h3 id="cct1-realizar-cadastro">CCT1: Realizar Cadastro</h3>
-<p><img alt="Realizar cadastro" src="../img/CTT/ctt1.png" /></p>
-<h3 id="cct2-realizar-login">CCT2: Realizar Login</h3>
-<p><img alt="Realizar login" src="../img/CTT/ctt2.png" /></p>
-<h3 id="cct3-gerar-consumo">CCT3: Gerar Consumo</h3>
-<p><img alt="Gerar Consumo" src="../img/CTT/ctt3.png" /></p>
-<h2 id="ferramentas">Ferramentas</h2>
-<p><a href="https://www.draw.io/">Draw.io</a><br>
-<a href="ttps://www.lucidchart.com">LucdChart</a></p>
 <h2 id="referencias-bibliograficas">Referências Bibliográficas</h2>
 <blockquote>
 <p>Barbosa, S.;Silva, B. Interação Humano Computador, Capítulo 6 Organização no espaço de problema.</p>
@@ -650,12 +493,6 @@ e é retomada do ponto em que parou assim que T2 terminar.</li>
 <td align="center">05/10/19</td>
 <td align="center">1.1</td>
 <td align="center">Adição do documento no repositório</td>
-<td align="center">Matheus Estanislau e Moacir Mascarenha</td>
-</tr>
-<tr>
-<td align="center">06/10/19</td>
-<td align="center">1.2</td>
-<td align="center">Adição do CTT's</td>
 <td align="center">Matheus Estanislau e Moacir Mascarenha</td>
 </tr>
 </tbody>
