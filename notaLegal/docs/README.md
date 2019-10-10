@@ -30,6 +30,7 @@ Tais créditos poderão ser resgatados em sua conta bancária ou abatidos em imp
     </div>
   </div>
 
+  <div class="container">
   <div  class="card">
        <img class="integrante" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/joao.jpg?raw=true">
       <div class="item">
@@ -39,7 +40,9 @@ Tais créditos poderão ser resgatados em sua conta bancária ou abatidos em imp
       </a>
     </div>
   </div>
+  </div>
 
+  <div class="container">
   <div  class="card">
   <img class="integrante" src="https://github.com/Requisitos2-2019/Waze/blob/master/docs/img/equipe/LucasA.png?raw=true">
       <div class="item">
@@ -50,6 +53,8 @@ Tais créditos poderão ser resgatados em sua conta bancária ou abatidos em imp
     </div>
   </div>
 </div>
+</div>
+
 <div class="container">
   <div class="card">
   <img class="integrante" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/MatheusEstanislau.jpg?raw=true">
@@ -61,6 +66,7 @@ Tais créditos poderão ser resgatados em sua conta bancária ou abatidos em imp
     </div>
   </div>
 
+  <div class="container">
   <div  class="card">
   <img class="integrante" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/Moacir.jpg?raw=true">
       <div class="item">
@@ -70,7 +76,9 @@ Tais créditos poderão ser resgatados em sua conta bancária ou abatidos em imp
       </a>
     </div>
   </div>
+  </div>
 
+<div class="container">
   <div class="card">
   <img class="integrante" src="https://github.com/Interacao-Humano-Computador/2019.2-Nota-Legal/blob/master/notaLegal/docs/img/equipe/Renan.jpg?raw=true">
             <div  class="item">
@@ -80,4 +88,5 @@ Tais créditos poderão ser resgatados em sua conta bancária ou abatidos em imp
       </a>
     </div>
   </div>
+</div>
 </div>
