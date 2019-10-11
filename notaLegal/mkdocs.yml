@@ -14,3 +14,5 @@ nav:
     - Análise Hierárquica de Tarefas: HTA.md
   - Design, Avaliação e Desenvolvimento:
     - Avaliação Heurística: avaliacao_heuristica.md
+  - Perfil do Usuário: 
+    - Entrevista: entrevista.md
