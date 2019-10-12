@@ -38,9 +38,29 @@
 **Você consegue acessar com facilidade o que procura?**  | Não são intuitivas as funcionalidades no site mas com consigo usar o que quero com certo esforço |
 |**Por qual motivo você usa o nota legal?**  |Uso para receber parte do imposto de volta.|
 
+
+## Entrevista 2
+
+|   Nome   | Papel |
+|:--------:|:------:|
+| Ricardo | entrevistado|
+| Lucas Alexandre | entrevistador | 
+
+|   Data   | Hora | Idade do entrevistado |
+|:--------:|:------:|:------:|
+|12/10/2019|17:00|47 anos|
+
+|   Pergunta   | Resposta |
+|:--------:|:------:|
+|**Como você conheceu o sistema do nota legal?**  | Conheci através das propagandas que passavam na televisão.|
+|**Como foi sua primeira experiência usando o site do nota legal?**  |No primeiro acesso tive que pedir ajuda para meu filho, pois não tem familiaridade com tecnologia.|
+|**Já teve alguma dificuldade de usar o site? qual?**  | No meu cadastro, por vezes, não foi aceito e sabia qual era o problema. Consegui fazer após algumas tentativas e ajuda.|
+**Você consegue acessar com facilidade o que procura?**  | O site por diversas vezes se encontra fora do ar, além disso muitas vezes demora muito para carregar o que desejo acessar no site.|
+|**Por qual motivo você usa o nota legal?**  |Ter desconto no IPVA.|
 ## Versionamento
 
 |   Data   | Versão |           Descrição           |             Autor(es)              |
 |:--------:|:------:|:-----------------------------:|:----------------------------------:|
 | 10/10/2019 |  1.0   |    Adicionado entrevista 1    |  João Pedro soares, lucas alexandre|
 | 10/10/2019 |  1.1   |    Adicionado entrevista 2    |  João Pedro soares, lucas alexandre|
+| 12/10/2019 |  1.2   |    Adicionado entrevista 3    |  João Pedro soares, lucas alexandre|
