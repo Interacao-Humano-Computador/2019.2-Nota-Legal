@@ -20,7 +20,6 @@ Links para pagina inicial <br>
 Termos legais <br>
 Ajudas/dúvidas <br>
 Mapa do site <br>
-Pagina principal <br>
 Links para redes sociais <br>
 Links para páginas importantes <br>
 Links para orgãos do governo <br>
@@ -29,7 +28,17 @@ Botões de acessibilidade <br>
 Notícias <br>
 Texto(informações sobre tema da pagina)<br>
 
+## Classificações
+Foram realizadas três classificações:
+
+### Classificação 1:
+[![classificacao 1](img/Cards_sorting/classificacao1.jpeg)](img/Cards_sorting/classificacao1.jpg)
+
+### Classificação 1:
+[![classificacao 2](img/Cards_sorting/classificacao2.jpg)](img/Cards_sorting/classificacao2.jpg)
+
 ## Analise e resultado
+
 
 ## Referências Bibliográficas
 
