@@ -10,23 +10,27 @@ Utilizamos a classificação de cartões fechada, onde os cartões foram dividid
 - Miolo
 - Rodapé
 
+Os participantes foram instruídos a organizar os cartões(fichas) nas categorias que lhes faziam mais sentido. Podendo usar o mesmo card para mais de uma categoria.
+
 ## Cartões (fichas)
 
 Logo <br>
 Informação para contato <br>
 Informação objetivo do site <br>
 Colaboradores <br>
-Links para pagina inicial <br>
+Links/botões para página inicial <br>
 Termos legais <br>
 Ajudas/dúvidas <br>
 Mapa do site <br>
-Links para redes sociais <br>
-Links para páginas importantes <br>
-Links para orgãos do governo <br>
+Links/botões para redes sociais <br>
+Links/botões para páginas importantes <br>
+Links/botões para órgãos do governo <br>
 Botões de acessibilidade <br>
 Área de acesso (login) e cadastro <br>
 Notícias <br>
-Texto(informações sobre tema da pagina)<br>
+Texto(informações sobre tema da página)<br>
+
+[![cards](img/Cards_sorting/cards.jpeg)](img/Cards_sorting/cards.jpeg)
 
 ## Classificações
 Foram realizadas três classificações:
@@ -34,10 +38,29 @@ Foram realizadas três classificações:
 ### Classificação 1:
 [![classificacao 1](img/Cards_sorting/classificacao1.jpeg)](img/Cards_sorting/classificacao1.jpg)
 
-### Classificação 1:
+### Classificação 2:
 [![classificacao 2](img/Cards_sorting/classificacao2.jpg)](img/Cards_sorting/classificacao2.jpg)
 
-## Analise e resultado
+### Classificação 3:
+[![classificacao 3](img/Cards_sorting/classificacao3.jpeg)](img/Cards_sorting/classificacao3.jpeg)
+
+## Análise
+
+A partir das classificações é possivel observar os agrupamentos comuns entre a maioria dos participantes.
+
+![grafico](img/grafico.png)
+
+#### Cabeçalho:
+Logo, Mapa do site, Links/botões para páginas,importantes, Links/botões para página inicial e Área de acesso (login) e cadastro.
+
+#### Menu:
+Links/botões para página inicial,Links/botões para páginas importantes e Ajudas/dúvidas.
+
+#### Miolo:
+Notícias, textos e Informação objetivo do site .
+
+#### Rodapé:
+Informação para contato, Termos legais e Links/botões para redes sociais.
 
 
 ## Referências Bibliográficas
@@ -53,3 +76,4 @@ Foram realizadas três classificações:
 | Data | Versão | Descrição | Autor(es) |
 |:--:|:--:|:--:|:--:|
 |13/10/19|1.0|Criação do documento|Moacir Mascarenha, Renan Cristyan|
+|14/10/19|1.1|Adicionadas as classificações e analises|Moacir Mascarenha, Renan Cristyan|
