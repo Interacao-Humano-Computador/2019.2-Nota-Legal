@@ -23,17 +23,73 @@ as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as conse
 
 
 
-### HTA1: Cadastro de Usuário
+### HTA01: Cadastro de Usuário
 
 [![cadastrar_usuário](img/HTA/cadastrarUsuário.png)](img/HTA/cadastrarUsuário.png)
 
-### HTA2: Login
+### HTA02: Login
 ![login](img/HTA/login.png)
 
-### HTA3: Gerar consumo
+### HTA03: Gerar consumo
 ![gerar consumo](img/HTA/gerarConsumo.png)
 
 
+## 3.Árvores de Tarefas Concorrentes(ConcurTaskTrees – CTT)
+
+O modelo de árvores de tarefas concorrentes tem como objetivo  auxiliar a avaliação e o design e avaliação de IHC.
+
+#### Tipos de Tarefas 
+
+- tarefas do usuário, realizadas fora do sistema.
+
+- tarefas do sistema, em que o sistema realiza um processamento sem interagir com o usuário.
+
+- tarefas interativas, em que ocorrem os diálogos usuário–sistema. 
+
+- tarefas abstratas, que não são tarefas em si, mas sim uma representação de uma composição de tarefas que auxilie a decomposição.
+
+![img1](img/CTT_img1.png)
+
+Figura a: Representações dos tipos de tarefas.
+
+Figura b: Representações hierarquicas das tarefas no CTT.
+
+### O CTT permite representar diversas relações entre as tarefas.
+
+#### Relações entre tarefas:
+
+- ativação: T1 >> T2 significa que a segunda tarefa (T2) só pode iniciar após a primeira tarefa (T1) terminar;
+- ativação com passagem de informação: T1 [ ] >> T2 especifica que, além de
+T2 só poder ser iniciada após T1, a informação produzida por T1 é passada
+para T2;
+-  escolha (tarefas alternativas): T1 [] T2 especifica duas tarefas que estejam habilitadas num momento, mas que, uma vez que uma delas é iniciada, a outra
+é desabilitada;
+- tarefas concorrentes: T1 ||| T2 especifica que as tarefas podem ser realizadas em qualquer ordem ou ao mesmo tempo;
+
+- tarefas concorrentes e comunicantes: T1 | [ ] | T2 especifica que, além de as tarefas poderem ser realizadas em qualquer ordem ou ao mesmo tempo, elas
+podem trocar informações;
+- tarefas independentes: T1 |=| T2 especifica que as tarefas podem ser realizadas em qualquer ordem, mas quando uma delas é iniciada, precisa terminar
+para que a outra possa ser iniciada;
+- desativação: T1 [> T2 especifica que T1 é completamente interrompida por
+T2;
+
+- suspensão/retomada: T1 |> T2 especifica que T1 pode ser interrompida por T2
+e é retomada do ponto em que parou assim que T2 terminar.
+
+![img2](img/CTT_img2.png)
+
+### CTT01: Cadastrar Usuário
+
+[![img3](img/ctt1.png)](img/ctt1.png)
+
+
+### CTT02: Realizar login
+
+[![img4](img/ctt2.png)](img/ctt2.png)
+
+### CTT03: Gerar consumo
+
+[![img5](img/ctt3.png)](img/ctt3png)
 
 ## Referências Bibliográficas
 
@@ -46,3 +102,4 @@ as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as conse
 |:--:|:--:|:--:|:--:|
 |05/10/19|1.0|Criação do documento|Matheus Estanislau e Moacir Mascarenha|
 |05/10/19|1.1|Adição do documento no repositório|Matheus Estanislau e Moacir Mascarenha|
+|13/10/19|1.2|Adição do CTT|Matheus Estanislau e Moacir Mascarenha|
