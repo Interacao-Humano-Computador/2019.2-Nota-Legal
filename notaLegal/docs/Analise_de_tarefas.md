@@ -107,6 +107,17 @@ e é retomada do ponto em que parou assim que T2 terminar.
 
 [![img5](img/ctt3.png)](img/ctt3png)
 
+## Utilizar Crédito
+
+### CTT04: Abatimento no IPTU
+![iptu](img/HTA/analise_concorrente_iptu.png)
+
+### CTT05: Abatimento no IPVA
+![iptu](img/HTA/analise_concorrente_ipva.png)
+
+### CTT06: Indicação para depósito em conta
+![iptu](img/HTA/analise_concorrente_deposito.png)
+
 ## Referências Bibliográficas
 
 
@@ -119,3 +130,4 @@ e é retomada do ponto em que parou assim que T2 terminar.
 |05/10/19|1.0|Criação do documento|Matheus Estanislau e Moacir Mascarenha|
 |05/10/19|1.1|Adição do documento no repositório|Matheus Estanislau e Moacir Mascarenha|
 |13/10/19|1.2|Adição do CTT|Matheus Estanislau e Moacir Mascarenha|
+|01/11/19|1.3|Refatorado documento|Lucas Alexandre e Moacir Mascarenha|
