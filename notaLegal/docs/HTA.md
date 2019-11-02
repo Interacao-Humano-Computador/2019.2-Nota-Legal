@@ -28,13 +28,29 @@ as pessoas fazem (ou se recomenda que façam), por que o fazem, e quais as conse
 [![cadastrar_usuário](img/HTA/cadastrarUsuário.png)](img/HTA/cadastrarUsuário.png)
 
 ### HTA02: Login
+
 ![login](img/HTA/login.png)
 
 ### HTA03: Gerar consumo
+
 ![gerar consumo](img/HTA/gerarConsumo.png)
 
+## Utilizar Crédito
 
-## 3.Árvores de Tarefas Concorrentes(ConcurTaskTrees – CTT)
+### HT04: Abatimento no IPTU
+
+![IPTU](img/HTA/AnaliseIPTU.png)
+
+### HT05: Abatimento no IPVA
+
+![IPVA](img/HTA/AnaliseIPVA.png)
+
+### HT06: Indicação para depósito em conta
+
+![conta](img/HTA/DepositoConta.png)
+
+
+## 3. Árvores de Tarefas Concorrentes(ConcurTaskTrees – CTT)
 
 O modelo de árvores de tarefas concorrentes tem como objetivo  auxiliar a avaliação e o design e avaliação de IHC.
 
