@@ -77,7 +77,8 @@ como avaliar: preparação, coleta de dados,interpretação, consolidação e re
         </ul>
 </ul>
 
-
+## Referências
+>Barbosa, S.;Silva, B. Interação Humano Computador, Capítulo 9 Planejamento da Avaliação de IHC.
 
 ## Histórico de versões
 
