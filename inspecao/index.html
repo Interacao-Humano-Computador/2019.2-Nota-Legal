@@ -36,7 +36,7 @@
     
     
       
-        <title>Características Da Plataforma - Nota Legal</title>
+        <title>Inspeção-Acessibilidade Web - Nota Legal</title>
       
     
     
@@ -77,7 +77,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="#caracteristicas-da-plataforma" tabindex="1" class="md-skip">
+      <a href="#inspecao-acessibilidade-web-w3c" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -103,7 +103,7 @@
             </span>
             <span class="md-header-nav__topic">
               
-                Características Da Plataforma
+                Inspeção-Acessibilidade Web
               
             </span>
           
@@ -326,10 +326,12 @@
       
       
 
+  
 
-  <li class="md-nav__item md-nav__item--nested">
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5" checked>
     
     <label class="md-nav__link" for="nav-5">
       Avaliação
@@ -369,11 +371,49 @@
           
           
 
+  
 
-  <li class="md-nav__item">
-    <a href="../inspecao/" title="Inspeção-Acessibilidade Web" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Inspeção-Acessibilidade Web
+      </label>
+    
+    <a href="./" title="Inspeção-Acessibilidade Web" class="md-nav__link md-nav__link--active">
       Inspeção-Acessibilidade Web
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
   </li>
 
         
@@ -403,8 +443,8 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#historico-de-versoes" class="md-nav__link">
-    Histórico de versões
+  <a href="#introducao" class="md-nav__link">
+    Introdução
   </a>
   
 </li>
@@ -426,69 +466,72 @@
               
                 
                 
-                <h1 id="caracteristicas-da-plataforma">Características Da Plataforma</h1>
+                <h1 id="inspecao-acessibilidade-web-w3c">Inspeção - Acessibilidade Web (W3C)</h1>
+<h2 id="introducao">Introdução</h2>
 <p align="justify">
-O nota Legal é uma plataforma web do tipo portal, 
-para que usuários consigam gerenciar seus benefios adiquiridos atraves do sistema de compras. 
-A plataforma é compatível com os seguintes navegadores (versões mínimas): Microsoft Internet Explorer 8, Mozilla Firefox 4.0 e Google Chrome 13. O padrão de acessibilidade do site está de acordo com o padrão W3C.
-</p>
+Os métodos de inspeção permitem ao avaliador examinar (ou inspecionar) uma
+solução de IHC para tentar antever as possíveis consequências de certas decisões de design sobre as experiências de uso. Em outras palavras, tentar identificar problemas
+que os usuários podem vir a ter quando interagirem com o sistema. Esses métodos
+geralmente não envolvem diretamente usuários e, portanto, tratam de experiências
+de uso potenciais, e não reais. Além de permitir comparar designs alternativos e buscar problemas em soluções de IHC, os métodos de inspeção permitem ainda avaliar
+a conformidade com um padrão ou guia de estilo.
 
-<p align="justify">
-A plataforma não possui uma interface responsiva, porém funciona em dispositivos com tamanhos de telas distintos, 
-possui um auxilio de um recurso de acessibilidade para ajustar tamananho da fonte, além da opção de alternar o contraste das cores da tela.
-</p>
+# Questões 
+Questões e justificativas baseadas em [Acessibilidade Web-W3C](https://www.w3.org/WAI/test-evaluate/preliminary/).
 
-<p align="justify">
-A área restrita do site do Programa Nota Legal é acessada após a validação do cadastro do consumidor e disponibiliza
-recursos para consultar os documentos fiscais e créditos, consultar extrato e saldo de conta corrente, registrar,
-consultar e arquivar reclamação, alteração de senha e de dados pessoais, imprimir o seu cartão Nota Legal, 
-utilizar créditos para abatimento no IPTU, IPVA ou depósito bancário (nos respectivos períodos autorizados pela legislação),
-além de quadro-resumo sobre a movimentação dos seus créditos.
-</p>
+|Questões | Justificativa|
+|---------|---------------|
+|Os título que descrevem de forma adequada e breve o conteúdo da página?|Bons títulos de página são particularmente importantes para orientação |
+|Cada página possui um título distinto?| A primeira coisa que os leitores de tela dizem quando o usuário acessa uma página da web diferente é o título da página.|
+|Toda imagem possui um texto alternativo apropriado(alt)?|As alternativas de texto são usadas por pessoas que não veem a imagem. (Por exemplo, pessoas cegas e que usam leitores de tela podem ouvir o texto alternativo lido; e pessoas que desativaram imagens para acelerar o download ou economizar largura de banda podem ver o texto alternativo.)|
+|As páginas tem um cabeçalho?|as pessoas podem navegar para os títulos - incluindo pessoas que não podem usar o mouse e usar apenas o teclado e pessoas que usam um leitor de tela.|
+|As páginas contém diferentes opções de contraste?|Algumas pessoas não podem ler o texto se não houver contraste suficiente entre o texto e o plano de fundo, por exemplo, texto em cinza claro sobre um plano de fundo claro.|
+|Se alterar o tamanho do texto?|Algumas pessoas precisam ampliar o conteúdo da Web para lê-lo. Alguns precisam alterar outros aspectos da exibição do texto: fonte, espaço entre linhas e muito mais.|
+|É possível  tabular todos os elementos do site?|Muitas pessoas não podem usar o mouse e confiar no teclado para interagir com a Web. As pessoas que são cegas e algumas que vêem com problemas de mobilidade dependem do teclado ou de tecnologias e estratégias de assistência que dependem de comandos do teclado, como entrada de voz. |
+|no site há Conteúdo em movimento ou piscando?|O conteúdo em movimento, piscando ou piscando inclui carrosséis (por exemplo, carrossel ), anúncios, vídeos, cotações de ações com atualização automática, rolagem de feeds de notícias e muito mais. Os usuários precisam ser capazes de controlar o conteúdo em movimento, especialmente algumas pessoas com distúrbio de déficit de atenção ou distúrbios de processamento visual.|
 
-<p align="justify">
-Na página inicial do site são fornecidas diversas opções de acesso, como notícias, orientações ao cidadão e ao empreendedor, além de informações sobre o cálculo do crédito. No rodapé do site são oferecidos varios 
-links que redirecionam o usuário para diferentes áreas, sendo elas:
-</p>
 
-<ul>
-<li>Página principal </li>
-<li>Programa Nota legal </li>
-<li>Legislação específica </li>
-<li>Benefícios </li>
-<li>Empresas Participantes </li>
-<li>Cartão Nota Legal </li>
-<li>Agências </li>
-<li>Imprensa </li>
-<li>Mapa do site </li>
-<li>Fale conosco </li>
-<li>Compatibilidade</li>
-</ul>
-<h2 id="historico-de-versoes">Histórico de versões</h2>
-<table>
-<thead>
-<tr>
-<th align="center">Data</th>
-<th align="center">Versão</th>
-<th align="center">Descrição</th>
-<th align="center">Autor(es)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">31/10/2019</td>
-<td align="center">1.0</td>
-<td align="center">Criado o documento</td>
-<td align="center">João Pedro Soares, Renan Cristyan</td>
-</tr>
-<tr>
-<td align="center">02/11/2019</td>
-<td align="center">1.1</td>
-<td align="center">Adição de conteúdo</td>
-<td align="center">João Pedro Soares, Renan Cristyan</td>
-</tr>
-</tbody>
-</table>
+
+
+## Checklist
+
+|Questões|Página inicial|Cadastro|Login| Utilizar créditos|
+|--------|--------|-------|-------|------|
+|Os título que descrevem de forma adequada e breve o conteúdo da página?|✔|❌|❌|❌|
+|Toda imagem possui um texto alternativo apropriado(alt)?|❌|-|-|-|
+|As páginas tem um cabeçalho?|✔|✔|✔|✔|
+|Cada página possui um título distinto?|✔|❌|❌|❌|
+|É possível  tabular todos os elementos do site?|✔|✔|✔|✔|
+|As páginas contém diferentes opções de contraste?|✔|✔|❌|✔|
+|Se alterar o tamanho do texto?|✔|✔|✔|✔|
+|No site há conteúdo em movimento ou piscando?|❌|❌|❌|❌|
+
+
+
+## Observações
+Campos marcados com:
+- ✔ possuem a característica observada.
+- ❌ não possuem a característica.
+- **-** não foi encontrado.
+
+|Tópico|Observação|
+|------|----------|
+|Título|Apenas a página inicial possui um título que descreve a página as demais possuem títulos genéricos|
+|Imagens| A maioria das imagens possuem o atributo **alt** mas não possuem uma descrição clara ou nem possuem descrição|
+|Tabulação| É possível tabular entre os campos e botões de todo o site mas não sobre imagens e alguns links|
+|Contraste|Na página de login não é possível alterar o seu contraste|
+
+
+## Referências 
+
+> revisão da acessibilidade da Web, Disponivel em : https://www.w3.org/WAI/test-evaluate/preliminary/
+
+
+## Histórico de versões
+
+| Data | Versão | Descrição | Autor(es) |
+|:--:|:--:|:--:|:--:|
+|05/11/19|1.0|Criação do documento|João Pedro, Lucas Alexandre e Moacir Mascarenhas|
                 
                   
                 
@@ -505,6 +548,27 @@ links que redirecionam o usuário para diferentes áreas, sendo elas:
       
         
 <footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../avaliacaoPrototipoPapel/" title="Avaliação protótipo de papel" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Avaliação protótipo de papel
+              </span>
+            </div>
+          </a>
+        
+        
+      </nav>
+    </div>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
