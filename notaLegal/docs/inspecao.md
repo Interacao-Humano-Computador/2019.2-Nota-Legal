@@ -9,7 +9,7 @@ que os usuários podem vir a ter quando interagirem com o sistema. Esses método
 geralmente não envolvem diretamente usuários e, portanto, tratam de experiências
 de uso potenciais, e não reais. Além de permitir comparar designs alternativos e buscar problemas em soluções de IHC, os métodos de inspeção permitem ainda avaliar
 a conformidade com um padrão ou guia de estilo.
- 
+</p> 
 # Questões 
 Questões e justificativas baseadas em [Acessibilidade Web-W3C](https://www.w3.org/WAI/test-evaluate/preliminary/).
  
