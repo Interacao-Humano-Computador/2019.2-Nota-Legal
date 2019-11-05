@@ -15,7 +15,7 @@ A avaliação de IHC é uma atividade fundamental em qualquer processo de desenv
 
 Considerando cada perfil de usuário esperado:
 <ul> 
-    <li>O usuário consegue operar o sistema? Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?
+    <li>O usuário consegue operar o sistema? Ele atinge seu objetivo? Em quanto tempo? Após cometer quantos erros?
     <li>Que parte da interface e da interação o deixa insatisfeito?
     <li>Que parte da interface o desmotiva a explorar novas funcionalidades?
     <li>Ele entende o que significa e para que serve cada elemento de interface?
