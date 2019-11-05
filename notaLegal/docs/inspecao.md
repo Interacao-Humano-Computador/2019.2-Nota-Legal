@@ -9,13 +9,14 @@ que os usuários podem vir a ter quando interagirem com o sistema. Esses método
 geralmente não envolvem diretamente usuários e, portanto, tratam de experiências
 de uso potenciais, e não reais. Além de permitir comparar designs alternativos e buscar problemas em soluções de IHC, os métodos de inspeção permitem ainda avaliar
 a conformidade com um padrão ou guia de estilo.
+</p>
  
 # Questões 
 Questões e justificativas baseadas em [Acessibilidade Web-W3C](https://www.w3.org/WAI/test-evaluate/preliminary/).
  
 |Questões | Justificativa|
 |---------|---------------|
-|Os título que descrevem de forma adequada e breve o conteúdo da página?|Bons títulos de página são particularmente importantes para orientação |
+|Os título que descrevem de forma adequada e breve o conteúdo da página?|Bons títulos de página são particularmente importantes para orientação|
 |Cada página possui um título distinto?| A primeira coisa que os leitores de tela dizem quando o usuário acessa uma página da web diferente é o título da página.|
 |Toda imagem possui um texto alternativo apropriado(alt)?|As alternativas de texto são usadas por pessoas que não veem a imagem. (Por exemplo, pessoas cegas e que usam leitores de tela podem ouvir o texto alternativo lido; e pessoas que desativaram imagens para acelerar o download ou economizar largura de banda podem ver o texto alternativo.)|
 |As páginas tem um cabeçalho?|as pessoas podem navegar para os títulos - incluindo pessoas que não podem usar o mouse e usar apenas o teclado e pessoas que usam um leitor de tela.|
