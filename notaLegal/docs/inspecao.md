@@ -44,10 +44,12 @@ Questões e justificativas baseadas em [Acessibilidade Web-W3C](https://www.w3.o
  
 
 ## Observações
-Campos marcados com:
-- ✔ possuem a característica observada.
-- ❌ não possuem a característica.
-- **-** não foi encontrado.
+Campos marcados com:<br>
+<ul>
+ <li> ✔ possuem a característica observada.<br>
+<li> ❌ não possuem a característica.<br>
+<li> <b>-</b> não foi encontrado.
+</ul>
 
 |Tópico|Observação|
 |------|----------|
@@ -67,6 +69,6 @@ Campos marcados com:
 | Data | Versão | Descrição | Autor(es) |
 |:--:|:--:|:--:|:--:|
 |05/11/19|1.0|Criação do documento|João Pedro, Lucas Alexandre e Moacir Mascarenhas|
-
+|05/11/19|1.1|Alterado HTML|Matheus Estanislau|
 
 
