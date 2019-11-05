@@ -20,4 +20,5 @@ nav:
     - Questionario: Questionario.md
   - Avaliação:
     - Planejamento: planejamentoAvaliacao.md
-    - Avaliação protótipo de papel: avaliacaoPrototipoPapel.md 
+    - Avaliação protótipo de papel: avaliacaoPrototipoPapel.md
+    - Inspeção-Acessibilidade Web: inspecao.md
