@@ -113,6 +113,7 @@
 
 ## 4. Consistência e padrões
 ### Verificação
+    Existe um padrão nas telas do site? Este padrão é seguido em todos os lugares possíveis?
 ### Grau de severidade
     ( ) 0 - Sem importância
     ( ) 1 - Cosmético
@@ -144,6 +145,41 @@
     Efeito sobre a tarefa: Nenhum
 
     Correção possível: Todos os links do site devem ser carregados na mesma aba, salvo em casos muito específicos.
+
+---
+### Verificação
+    A acessibilidade do site é consistente? Usuários com necessidades especiais conseguem utilizar todas as páginas do site?
+### Grau de severidade
+    ( ) 0 - Sem importância
+    ( ) 1 - Cosmético
+    ( ) 2 - Simples
+    (X) 3 - Grave
+    ( ) 4 - Catastrófico
+### Natureza do problema
+    ( ) Barreira
+    (X) Obstáculo
+    ( ) Ruído
+### Perspectiva do usuário
+    ( ) Problema Geral
+    ( ) Problema Preliminar
+    (X) Problema Especial
+### Perspectiva da tarefa
+    (X) Problema Principal
+    ( ) Problema Secundário
+### Perspectiva do projeto
+    ( ) Problema Falso
+    ( ) Problema Novo
+    ( ) Não se aplica
+### Descrição do problema
+    Contexto: O usuário está na tela de login
+
+    Causa: Não há as opções de acessibilidade presentes em outras páginas, o que pode atrapalhar ou impossibilitar o acesso de usuários com necessidades especiais
+
+    Efeito sobre o usuário: Frustração, irritação
+
+    Efeito sobre a tarefa: Dificuldade ou impossibilidade de realizar login
+
+    Correção possível: Padronizar, assim como nas outras páginas, a acessibilidade ao usuário
 
 ---
 
@@ -295,40 +331,113 @@
 
 ---
 
-## 9. Ajudar os usuários a reconhecer, diagnosticar e corrigir erros
 ### Verificação
-    Ao fazer o cadastro no site, o sistema informa ao usuário sobre erros nas informações digitadas? Existe alguma dificuldade para corrigir um erro cometido?
+    Existem telas ou funcionalidades desnecessárias?
 ### Grau de severidade
-    (X) 0 - Sem importância
+    ( ) 0 - Sem importância
     ( ) 1 - Cosmético
-    ( ) 2 - Simples
+    (X) 2 - Simples
     ( ) 3 - Grave
     ( ) 4 - Catastrófico
 ### Natureza do problema
     ( ) Barreira
     ( ) Obstáculo
-    ( ) Ruído
+    (X) Ruído
 ### Perspectiva do usuário
-    ( ) Problema Geral
+    (X) Problema Geral
     ( ) Problema Preliminar
     ( ) Problema Especial
 ### Perspectiva da tarefa
-    ( ) Problema Principal
+    (X) Problema Principal
     ( ) Problema Secundário
 ### Perspectiva do projeto
     ( ) Problema Falso
     ( ) Problema Novo
     ( ) Não se aplica
 ### Descrição do problema
-    Contexto: O usuário tenta se cadastrar no site para utilizar algumas funcionalidades especiais
+    Contexto: Usuário está na página inicial e digita seu CPF para fazer login
 
-    Causa: Existe um feedback satisfatório quando o usuário digita alguma informação incorreta, auxiliando bastante no cadastro
+    Causa: O usuário é redirecionado para outra página onde precisa inserir CPF de novo e sua senha
 
-    Efeito sobre o usuário: Nenhum
+    Efeito sobre o usuário: Irritação, confusão
 
-    Efeito sobre a tarefa: Nenhum
+    Efeito sobre a tarefa: Perda de tempo
 
-    Correção possível: Os feedbacks estão bons e não precisam de modificações
+    Correção possível: Uma tela única para login com campos de CPF, senha e "esqueci minha senha"
+
+---
+
+### Verificação
+    A tela de cadastro tem design minimalista? Os campos e botões estão bem posicionados/ajustados?
+### Grau de severidade
+    ( ) 0 - Sem importância
+    ( ) 1 - Cosmético
+    (X) 2 - Simples
+    ( ) 3 - Grave
+    ( ) 4 - Catastrófico
+### Natureza do problema
+    ( ) Barreira
+    (X) Obstáculo
+    ( ) Ruído
+### Perspectiva do usuário
+    ( ) Problema Geral
+    (X) Problema Preliminar
+    ( ) Problema Especial
+### Perspectiva da tarefa
+    ( ) Problema Principal
+    (X) Problema Secundário
+### Perspectiva do projeto
+    ( ) Problema Falso
+    ( ) Problema Novo
+    ( ) Não se aplica
+### Descrição do problema
+    Contexto: O usuário digita suas informações na tela de cadastro
+
+    Causa: Os botões de confirmar e limpar dados estão mal posicionados e são muito pequenos, não são intuitivos e dificultam o uso 
+
+    Efeito sobre o usuário: Confusão, desorientação
+
+    Efeito sobre a tarefa: Perda de tempo e de eficiência
+
+    Correção possível: Padronizar os dois botões ao centro da tela, logo abaixo das informações de cadastro, e aumentar o tamanho dos mesmos
+
+---
+
+## 9. Ajudar os usuários a reconhecer, diagnosticar e corrigir erros
+
+### Verificação
+    Ao fazer o cadastro no site, o sistema informa ao usuário sobre erros nas informações digitadas? Existe alguma dificuldade para corrigir um erro cometido?
+### Grau de severidade
+    ( ) 0 - Sem importância
+    ( ) 1 - Cosmético
+    (X) 2 - Simples
+    ( ) 3 - Grave
+    ( ) 4 - Catastrófico
+### Natureza do problema
+    ( ) Barreira
+    ( ) Obstáculo
+    (X) Ruído
+### Perspectiva do usuário
+    (X) Problema Geral
+    ( ) Problema Preliminar
+    ( ) Problema Especial
+### Perspectiva da tarefa
+    (X) Problema Principal
+    ( ) Problema Secundário
+### Perspectiva do projeto
+    ( ) Problema Falso
+    ( ) Problema Novo
+    ( ) Não se aplica
+### Descrição do problema
+    Contexto: Na tela inicial o usuário digita o seu CPF
+
+    Causa: Não há feedback para o usuário caso o CPF esteja errado ou não cadastrado
+
+    Efeito sobre o usuário: Confusão
+
+    Efeito sobre a tarefa: Perda de tempo
+
+    Correção possível: Como este é um problema derivado de outro (duas telas para digitar CPF), resolver o outro problema automaticamente resolveria este. Outra solução seria dar feedback na primeira tela, apesar de não ser tão eficiente
 
 ---
 
@@ -382,3 +491,4 @@ Instituto de Computação – UFF, Niterói/RJ.
 |:--:|:--:|:--:|:--:|
 |10/09/19|1.0|Criação do documento|Renan Cristyan|
 |03/10/19|1.1|Adição do documento no repositório|Renan Cristyan|
+|12/11/19|2.0|Adição e classificação de 4 novos erros|Lucas Alexandre, Renan Cristyan|
