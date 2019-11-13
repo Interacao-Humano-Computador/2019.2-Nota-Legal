@@ -76,7 +76,7 @@ Página inicial -> Cadastrar-se e depois preencher:
 
 ### Classificação de erros de acordo com as heurísticas
 
-- Tela de Cadastro feia: heurística 8 - Estética e design minimalista
+- Tela de Cadastro visualmente desagradável: heurística 8 - Estética e design minimalista
 - Botões mal posicionados e com cores pouco intuitivas: heurística 8 - Estética e design minimalista
 
 ## Atividade 2: Tela de Login
