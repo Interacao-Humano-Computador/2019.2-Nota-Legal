@@ -28,7 +28,7 @@ O Avaliador e Simulador de Acessibilidade em Sites (ASES) é uma ferramenta que 
 ![marc1](img/marc_rec2.png)
 
 **Conteúdo/Informação:**
-![cont1](img/cont_rec2.png)
+![cont2](img/cont_rec2.png)
 
 ### Página Cadastro
 ![inicial](img/ASES_pg_cadastro.png)
@@ -40,13 +40,14 @@ O Avaliador e Simulador de Acessibilidade em Sites (ASES) é uma ferramenta que 
 
 
 **Conteúdo/Informação:**
-![cont1](img/cont_rec3.png)
+![cont3](img/cont_rec3.png)
 
-## ResumoInicial
+## Resumo Inicial
+
+![resumo inicial](img/ASES_pg_resumo.png)
 
 ### Recomendações:
 
-![marc4](img/ASES_pg_resumo.png)
 **Marcação:**
 
 ![marc4](img/marc_rec4.png)
@@ -58,7 +59,7 @@ O Avaliador e Simulador de Acessibilidade em Sites (ASES) é uma ferramenta que 
 ## Conclusão
 
 Após a avalição de algumas páginas do site nota legal usando a plataforma de Avaliação e Simulação de Acessibilidade em sites, é evidente que as paginas avaliadas contem o nivel de acessibilidade ruim, de acordo com o padrão W3C.
-s
+
 
 ## Referências 
  
