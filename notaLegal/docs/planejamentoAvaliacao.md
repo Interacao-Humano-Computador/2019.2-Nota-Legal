@@ -1,4 +1,4 @@
-# Planejamento da Avaliação
+# Planejamento da Avaliação - Prototipo de papel e inspeção
 
 ## Introdução
 
@@ -61,6 +61,11 @@ como avaliar: preparação, coleta de dados,interpretação, consolidação e re
 
 ![ Visão geral ](img/visãoGeralAvaliacaoPrototipo.png)
 
+### Tarefas
+Cadastrar-se no sistema
+Realizar login
+Utilização dos créditos obtidos enviados para a conta corrente
+
 #### Prototipo de papel Resultados
 <ul>
     <li> Os bojetivos da avaliação
@@ -85,4 +90,5 @@ como avaliar: preparação, coleta de dados,interpretação, consolidação e re
 | Data | Versão | Descrição | Autor(es) |
 |:--:|:--:|:--:|:--:|
 |03/11/19|1.0|Criação do documento|João Pedro, Moacir Mascarenha|
+|13/11/19|1.1|Adição das tarefas|Moacir Mascarenha|
 
