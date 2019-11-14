@@ -58,48 +58,6 @@ Campos marcados com:<br>
 |Tabulação| É possível tabular entre os campos e botões de todo o site mas não sobre imagens e alguns links|
 |Contraste|Na página de login não é possível alterar o seu contraste|
 
-## Avaliação ASES(Avaliador e Simulador de Acessibilidade em Sítios)
-
-### Página Inicial
-![inicial](img/ASES_pg_inicial.png)
-
-#### Recomendações:
-**Marcação:**
-![marc1](img/marc_rec1.png)
-
-**Comportamento:**
-![comp1](img/comp_rec1.png)
-
-**Conteúdo/Informação:**
-![cont1](img/cont_rec1.png)
-
-**Formulário:**
-![form1](img/form_rec1.png)
-
-
-### Página Login
-![inicial2](img/ASES_pg_login.png)
-
-#### Recomendações:
-**Marcação:**
-![marc1](img/marc_rec2.png)
-
-**Conteúdo/Informação:**
-![cont1](img/cont_rec2.png)
-
-### Página Cadastro
-![inicial](img/ASES_pg_cadastro.png)
-
-#### Recomendações:
-
-**Marcação:**
-![marc3](img/marc_rec3.png)
-
-
-**Conteúdo/Informação:**
-![cont1](img/cont_rec3.png)
-
-
 
 ## Conclusão
 
@@ -116,6 +74,5 @@ A partir dos resultados é possivel afirmar que site Nota Legal possue uma acess
 |:--:|:--:|:--:|:--:|
 |05/11/19|1.0|Criação do documento|João Pedro, Lucas Alexandre e Moacir Mascarenhas|
 |05/11/19|1.1|Alterado HTML|Matheus Estanislau|
-|13/11/19|2.0|Adicionada a avaliação ASES|Moacir Mascarenha|
 
 
