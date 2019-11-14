@@ -68,6 +68,7 @@ A partir dos resultados é possivel afirmar que site Nota Legal possue uma acess
 > revisão da acessibilidade da Web, Disponível em : https://www.w3.org/WAI/test-evaluate/preliminary/
  
  > Avaliador e Simulador de Acessibilidade em Sítios, Disponível em:http://asesweb.governoeletronico.gov.br/ases/
+
 ## Histórico de versões
  
 | Data | Versão | Descrição | Autor(es) |
