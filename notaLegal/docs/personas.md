@@ -36,14 +36,14 @@ a tomar decisões sobre funcionalidades e design
 
 ## P2
 
-### Dayse Janara Mascarenha, 21 anos, estudante de Pedagogia e Trabalha em uma fármacia, Cruzeiro - DF  
+### Dayse Janara Mascarenha, 21 anos, professora de ensino infantil, Cruzeiro - DF  
 
 | Titulo | informações | 
 |:--:|:--:|
 |**Objetivos do usuário**|Receber parte do imposto em forma de dinheiro;<br>Saber seus gastos durante certo período;<br>.|
 |**Objetivos no site**|Usar o beneficio de receber dinheiro de volta;<br>Ver seus gastos de suas compras.<br>|
-|**Tarefas diárias**|Ir para faculdade;<br>Trabalhar em uma fármacia; <br>Postar fotos de seu gato no Instagram.<br>|
-|**Background**|Estuda Pedagogia na Anhaguera e está no 5 semestre;<br>Mora com os pais;<br>Sempre que tem tempo livre, se encontra com seu namorado Moacyr.|
+|**Tarefas diárias**|Trabalhar em um Colégio; <br>Postar fotos de seu gato no Instagram.<br>|
+|**Background**|Trabalha em um colégio no cruzeiro a 3 anos;<br>Mora por conta própria no cruzeiro;<br>Sempre que tem tempo livre, se encontra com seu namorado Moacyr.|
 |**Uso da internet**|Email;<br>Rede Sociais;<br>Notícias;<br>Pesquisa<br>Postar no twitter.|
 
 
@@ -56,6 +56,4 @@ a tomar decisões sobre funcionalidades e design
 |:--:|:--:|:--:|:--:|
 |12/10/19|1.0|Criado P1|Joao Pedro, Lucas Alexandre|
 |13/10/19|1.1|Criado P2|Joao Pedro, Lucas Alexandre|
-
-
-<!-- Saber as locais de compras que foram feitos -->
+|24/11/19|1.2|Ajusto P2|Joao Pedro, Lucas Alexandre|
