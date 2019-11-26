@@ -7,7 +7,7 @@ A avaliação de IHC é uma atividade fundamental em qualquer processo de desenv
  
 ## Objetivo
 <p align = "justify">
-Comparar ideias e alternativas de design e usabilidade para site Nota legal.
+Comparar ideias e alternativas de design e usabilidade para site Nota legal. Possibilita a interação do usuário, como se fosse o produto final, e geralmente representa fielmente o produto final em termos de design e funcionalidade. É apresentado no formato final e valida uma funcionalidade específica ou critica algum ponto do fluxo
  
 ### Questões a serem respondidas
 - Qual das alternativas é a mais eficiente? Mais fácil de aprender?
@@ -98,5 +98,5 @@ Os resultados devem incluir:
  
 | Data | Versão | Descrição | Autor(es) |
 |:--:|:--:|:--:|:--:|
-|12/11/19|1.0|Criação do documento|João Pedro, Lucas Alexandre, Moacir Mascarenha|
+|12/11/19|1.0|Criação do documento|João Pedro, Lucas Alexandre, Moacir Mascarenha, Matheus Rodrigues|
  

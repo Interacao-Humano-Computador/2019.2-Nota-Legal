@@ -37,6 +37,12 @@ Página Quadro Resumo -> Utilizar créditos -> Abatimento IPTU e preencher os da
 
 Dados do imóvel -> Preencher valor a utilizar -> Utilizar Créditos
 
+<br>
+
+### Video do teste de usabilidade
+
+[![Teste usabilidade](img/imagem-estanislau.png)](https://drive.google.com/file/d/1yTRo85Ysx87-m4EkiFGPXRQ8sIUxSsLh/view?usp=sharing)
+
 ### Dados Recolhidos
 
 |Perguntas|Respostas|
