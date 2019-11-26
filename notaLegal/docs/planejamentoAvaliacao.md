@@ -8,7 +8,15 @@ A avaliação de IHC é uma atividade fundamental em qualquer processo de desenv
 
 ## Objetivo
 
-### Identificar problemas na interação e interface no site Nota legal DF
+### O objetivo de um protótipo é criar uma representação semi realística de algo para que seja possível interagir e testar com usuários reais. A sua principal função é identificar problemas e oportunidades de melhorias muito antes de começar os refinamentos e a implementação. Por ser um método ágil e eficiente, a criação de protótipos vai nos ajudar a ter mais assertividade e menos refação, economizando tempo e deixando os usuários mais satisfeitos.
+
+## Teste Piloto
+
+<p align="justify">
+Uma vez estando pronto o material para o teste, é fundamental que se faça teste-piloto para se avaliar a qualidade do material gerado. O que se procura observar durante o teste-piloto é se os participantes conseguiram entender corretamente todo o material apresentado, se o tempo de execução do teste está dentro do previsto e é viável, se através das tarefas propostas se consegue obter as medidas especificadas e avaliar o critério desejado. Além disso, pode-se aproveitar o teste-piloto para se praticar a habilidade do avaliador para deixar os participantes à vontade para o teste e os entrevistar. Desta forma se garante que os dados coletados durante o teste permitirão de fato avaliar os aspectos desejados da aplicação, e não causarão perda de dados ou no pior caso, invalidação do teste como um todo.
+</p>
+
+[![Teste piloto](img/imagem-piloto.png)](https://drive.google.com/file/d/1Y9IWnpro8Dl5-8VSsxLhaFwB7a6QIhMT/view?usp=sharing)
 
 #### Questões:
 
@@ -32,7 +40,7 @@ Considerando cada perfil de usuário esperado:
 
 #### Observação
 <p align="justify"> Os métodos de <b>observação</b> fornecem dados sobre situações em que os usuários
-realizam suas atividades, com ou sem apoio de sistemas interativos. Através do registro dos dados observados, esses métodos permitem identifi car problemas reais que
+realizam suas atividades, com ou sem apoio de sistemas interativos. Através do registro dos dados observados, esses métodos permitem identificar problemas reais que
 os usuários enfrentaram durante sua experiência de uso do sistema sendo avaliado </p>
 
 #### Observação objetivos
@@ -68,7 +76,7 @@ Utilização dos créditos obtidos enviados para a conta corrente
 
 #### Prototipo de papel Resultados
 <ul>
-    <li> Os bojetivos da avaliação
+    <li> Os objetivos da avaliação
     <li> breve descrição do método
     <li>O número e o perfil de avaliadores e dos participantes
     <li>As tarefas executadas pelos participantes
@@ -85,10 +93,14 @@ Utilização dos créditos obtidos enviados para a conta corrente
 ## Referências
 >Barbosa, S.;Silva, B. Interação Humano Computador, Capítulo 9 Planejamento da Avaliação de IHC.
 
+>http://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-9
+
 ## Histórico de versões
 
 | Data | Versão | Descrição | Autor(es) |
 |:--:|:--:|:--:|:--:|
 |03/11/19|1.0|Criação do documento|João Pedro, Moacir Mascarenha|
 |13/11/19|1.1|Adição das tarefas|Moacir Mascarenha|
+|25/11/19|1.2| Adição do objetivo | Matheus Rodrigues|
+|25/11/19|1.3| Adição do teste piloto | Matheus Rodrigues|
 

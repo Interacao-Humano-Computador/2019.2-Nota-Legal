@@ -21,5 +21,5 @@ O storyboard 2.0 teve uma preoculpação em relatar um cenário desde de o momen
 | Data | Versão | Descrição | Autor(es|
 |:--:|:--:|:--:|:--:|
 |05/11/19|1.0|Adição storyboard 1.0| Matheus Rodrigues|
-|10/11/19|2.0|Adição storyboard 2.0| Matheus Rodrigues|
-|25/11/19|3.0| Adição da introdução storyboard | Matheus Rodrigues|
+|10/11/19|1.1|Adição storyboard 2.0| Matheus Rodrigues|
+|25/11/19|1.2| Adição da introdução storyboard | Matheus Rodrigues|
