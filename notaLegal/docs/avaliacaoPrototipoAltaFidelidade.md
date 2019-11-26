@@ -63,6 +63,48 @@ Dados do imóvel -> Preencher valor a utilizar -> Utilizar Créditos
 
 - Botão para retornar a página inicial não intuitivo: heurística 8 - Estética e design minimalista
 
+# Avaliação 2
+
+|AV2| Informações   |
+|:--------:|:------:|
+| Objetivo | Identificar problemas na interação no momento de se cadastrar, logar e verificar saldo |  
+| Perfil do participante |Nome: Ellen Queiroz<br>Idade: 25 anos<br>Profissão: Pedagoga| 
+| Páginas avaliadas | Cadastrar no sistema, logar e verificar saldo |
+
+## Atividade 2: Cadastrar e logar no sistema, verificar saldo
+
+### Tarefas a serem realizadas
+
+O usuário deve se cadastrar no sistema, logar e verificar o saldo disponível para abater o crédito.
+
+### Caminhos de interação
+Pagina inicial -> Acessar -> Cadastrar -> Logar -> visualizar saldo
+<br>
+
+### Video do teste de usabilidade
+
+[![Teste usabilidade](img/imagem-estanislau.png)](https://drive.google.com/file/d/1ztxaR6Xyqf4eXtHhXRCInyHgQfqpcjWa/view?usp=sharing)
+
+### Dados Recolhidos
+
+|Perguntas|Respostas|
+|:-------:|:-------:|
+|O usuário consegue operar o sistema? Ele atinge seu objetivo? Em quanto tempo? Após cometer quantos erros?| O usuário conseguiu realizar seu objetivo, levou cerca de 45 segundos, não cometeu nenhum erro |  
+|Que parte da interface e da interação o deixa insatisfeito?| Muitos dados para preencher o formulário |
+|Que parte da interface o desmotiva a explorar novas funcionalidades?| - |
+|Ele entende o que significa e para que serve cada elemento de interface?| Sim |
+|Ele vai entender o que deve fazer em seguida?| Sim |
+|Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?| Não teve nenhum empecilhos |
+|Onde esses problemas se manifestam?| Não se manifestaram  |
+|Com que frequência tendem a ocorrer?| não ocorreram |
+|Qual é a gravidade desses problemas?| Não teve |
+|Quais barreiras o usuário encontra para atingir seus objetivos?| Muitos dados para preencher o formulário |
+|Ele tem acesso a todas as e informações oferecidas pelo sistema?| Sim |
+
+### Classificação de erros de acordo com as heurísticas
+
+- Nenhum erro
+
 
 
 
