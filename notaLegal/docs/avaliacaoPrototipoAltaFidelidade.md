@@ -83,7 +83,7 @@ Pagina inicial -> Acessar -> Cadastrar -> Logar -> visualizar saldo
 
 ### Video do teste de usabilidade
 
-[![Teste usabilidade](img/imagem-estanislau.png)](https://drive.google.com/file/d/1ztxaR6Xyqf4eXtHhXRCInyHgQfqpcjWa/view?usp=sharing)
+[![Teste usabilidade](img/imagem-usabilidade2.png)](https://drive.google.com/file/d/1ztxaR6Xyqf4eXtHhXRCInyHgQfqpcjWa/view?usp=sharing)
 
 ### Dados Recolhidos
 
@@ -119,4 +119,5 @@ Instituto de Computação – UFF, Niterói/RJ.
 | Data | Versão | Descrição | Autor(es) |
 |:--:|:--:|:--:|:--:|
 |25/11/19|1.0|Criação do documento| Matheus rodrigues |
-|25/11/19|1.0|Adicão da avaliação 1| Matheus rodrigues |
+|25/11/19|1.1|Adicão da avaliação 1| Matheus rodrigues |
+|25/11/19|1.2|Adicão da avaliação 2| Matheus rodrigues |
