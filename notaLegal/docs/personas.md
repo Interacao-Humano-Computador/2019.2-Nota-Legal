@@ -36,7 +36,7 @@ a tomar decisões sobre funcionalidades e design
 
 ## P2
 
-### Dayse Janara Mascarenha, 21 anos, professora de ensino infantil, Cruzeiro - DF  
+### Dayse Janara Mascarenha, 31 anos, professora de ensino infantil, Cruzeiro - DF  
 
 | Titulo | informações | 
 |:--:|:--:|
