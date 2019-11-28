@@ -16,6 +16,7 @@ nav:
     - Característica da Plataforma: caracteristicaDaPlataforma.md
   - Design, Avaliação e Desenvolvimento:
     - Avaliação Heurística: avaliacao_heuristica.md
+    - Card Sorting: Card_sorting.md
   - Perfil do Usuário: 
     - Entrevista: entrevista.md
     - Personas: personas.md
